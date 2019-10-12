@@ -160,6 +160,7 @@ a:hover{
 
 #projects{
   background-color: #f5f5f5;
+  padding-top: 120px;
 }
 .card{
   border: 1px solid #f5f5f5;
@@ -168,7 +169,7 @@ a:hover{
   float:left;
   font-family: "Helvetica";
   padding: 15px 30px;
-  margin: 0px 15px 30px 0px;
+  margin: 0px 15px 15px 0px;
   width: 27%;
 }
 .card a.view{
