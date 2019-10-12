@@ -4,6 +4,13 @@ html {
 body{
   margin: 0px;
 }
+a{
+  color: #B37F00;
+  text-decoration: none;
+}
+a:hover{
+  color: #FFB80A;
+}
 
 .header{
   overflow: hidden;
