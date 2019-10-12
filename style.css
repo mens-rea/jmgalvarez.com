@@ -115,11 +115,18 @@ body{
 
 .content{
   width: 100%;
-  padding-top: 100px;
 }
 .content p, .content li, .content h3{
   font-family: "Helvetica";
   line-height: 1.5em;
+}
+
+#about{
+  background-color: #19276f;
+  color: white;
+}
+#about p{
+  color: #f5f5f5;
 }
 
 .toolbelt{
